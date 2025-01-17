@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I am [Kush Pareek](https://www.linkedin.com/in/kush-pareek-a34a991b4/)
+
+
+<a href="https://www.linkedin.com/in/kush-pareek-a34a991b4/">
+  <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  />
+</a>
+<a href="mailto:kpkbon@gmail.com">
+    <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
+</a>
+
+<br />
+
+### About Me 🚀
+💻 As a Founding Engineer, I thrive on building seamless, scalable applications. From crafting responsive front-end interfaces and enhancing user experiences to managing databases and server-side operations using Django, I love the comprehensive art of innovation.<br>
+
+🚀 My pursuit of knowledge and constant desire to refine my skills drive me to tackle diverse projects. I believe in the power of clean, efficient code and its impact on the digital world. <br>
+
+🌱 Always up for a challenge, I enjoy cloning and replicating complex applications, learning the intricacies, and pushing my boundaries. Every project is a canvas where I get to blend technology and creativity.<br>
+
+🛠️ Let's connect and build amazing things together! Feel free to explore my repositories and don't hesitate to contact for collaboration or a friendly chat. Happy coding! 🚀 <br>
+<br />
+
+![Kush github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical)<br />
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monupareeklg&layout=compact&langs_count=8&hide_border=false)
+<br />
+
+
