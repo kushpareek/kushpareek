@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 🛠️ Let's connect and build amazing things together! Feel free to explore my repositories and don't hesitate to contact for collaboration or a friendly chat. Happy coding! 🚀 <br>
 <br />
 
-![Kush github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical)<br />
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monupareeklg&layout=compact&langs_count=8&hide_border=false)
+![Kushpareek's Stats](https://github-readme-stats.vercel.app/api?username=Kushpareek&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <br />
 
 
